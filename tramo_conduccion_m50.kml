@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tramo_conduccion_m50" id="tramo_conduccion_m50">
+	<SimpleField name="fase" type="float"></SimpleField>
+	<SimpleField name="clave" type="string"></SimpleField>
+	<SimpleField name="prov" type="string"></SimpleField>
+	<SimpleField name="mun" type="string"></SimpleField>
+	<SimpleField name="orden_cond" type="string"></SimpleField>
+	<SimpleField name="tipo_tcond" type="string"></SimpleField>
+	<SimpleField name="estado" type="string"></SimpleField>
+	<SimpleField name="titular" type="string"></SimpleField>
+	<SimpleField name="gestion" type="string"></SimpleField>
+</Schema>
+<Folder><name>tramo_conduccion_m50</name>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">007</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">001</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">009</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">002</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">005</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">004</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">006</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">003</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF2d5291</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tramo_conduccion_m50">
+		<SimpleData name="fase">2021</SimpleData>
+		<SimpleData name="clave">CN</SimpleData>
+		<SimpleData name="prov">09</SimpleData>
+		<SimpleData name="mun">059</SimpleData>
+		<SimpleData name="orden_cond">008</SimpleData>
+		<SimpleData name="tipo_tcond">PE</SimpleData>
+		<SimpleData name="estado">B</SimpleData>
+		<SimpleData name="titular">MU</SimpleData>
+		<SimpleData name="gestion">MU</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-3.67002398111901,42.3202981453758 -3.67484427371873,42.3075343911586</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
